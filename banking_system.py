@@ -1,12 +1,3 @@
-# Banking System using OOP
-# Parent class: User
-# - Holds details about a user
-# - Has a function to show user details
-# Child class: Bank
-# - Stores details about the account balance
-# - Stores details about the amount
-# - Allows for deposits, withdrawals, view_balance
-
 # Parent class
 class User():
     def __init__(self, name, age, gender):
